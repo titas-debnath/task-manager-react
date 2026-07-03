@@ -54,10 +54,10 @@ function TaskForm() {
   return (
     <div>
       {/* Counters */}
-      <div style={{ marginBottom: "15px" }}>
-        <p>Total Tasks: {totalTasks}</p>
-        <p>Completed: {completedTasks}</p>
-        <p>Pending: {pendingTasks}</p>
+      <div style={{ marginBottom: "15px", fontWeight: "bold" }}>
+         <p>📌 Total: {totalTasks}</p>
+         <p>✅ Completed: {completedTasks}</p>
+         <p>⏳ Pending: {pendingTasks}</p>
       </div>
 
       {/* Input */}
@@ -87,7 +87,7 @@ function TaskForm() {
         toggleComplete={toggleComplete}
         deleteTask={deleteTask}
       />
-    </div>
+   </div>
   );
 }
 
