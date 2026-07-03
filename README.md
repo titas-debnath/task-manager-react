@@ -52,8 +52,7 @@ This project helps users manage daily tasks efficiently with features like add, 
 
 ## 🌐 Live Demo
 
-(Add deployment link here after hosting)
-
+https://task-manager-react-taupe.vercel.app/
 ---
 
 ## 📌 Author
