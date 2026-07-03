@@ -46,7 +46,7 @@ This project helps users manage daily tasks efficiently with features like add, 
 
 ## 📸 Screenshot
 
-![App Screenshot](Screenshot.png)
+![App Screenshot](public/screenshot.png)
 
 ---
 
